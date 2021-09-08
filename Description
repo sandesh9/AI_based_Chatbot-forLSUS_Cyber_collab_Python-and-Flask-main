@@ -1,0 +1,1 @@
+This is python based project. It is a chabot that interact through web. To interact with web it uses Flask. This bot will address the human query with trained dictorany. This dictonary can be modified and model can be retrained acording to the needs
